@@ -9,8 +9,8 @@ I stumbled upon [```kilo```](https://github.com/antirez/kilo), a small C program
 
 Some more resources I haven't had a chance to read yet are:
 
-https://invisible-island.net/ncurses/ncurses-intro.html
-https://vt100.net/docs/vt100-ug/chapter3.html
+	https://invisible-island.net/ncurses/ncurses-intro.html
+	https://vt100.net/docs/vt100-ug/chapter3.html
 
 I'm probably not going to write my own tool for my original goal, but it's very cool to see what existing tools are out there.
 
