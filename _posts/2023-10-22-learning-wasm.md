@@ -12,6 +12,7 @@ A web app is inticing because it has the promise of distribution to multiple pla
 So I'm thinking that building up a basic application in WASM may be what we need.  The CalChart Core could be a good way to start this project, building up a simple viewer around it.  It'll be a long term effort, but it will be fun to try follow some guide like the ones I've found here:
 
 [pragmatic-compiling-from-c-to-webassembly](https://medium.com/@tdeniffel/pragmatic-compiling-from-c-to-webassembly-a-guide-a496cc5954b8)
+
 [emscripten_with_cmake](https://stunlock.gg/posts/emscripten_with_cmake/)
 
 
