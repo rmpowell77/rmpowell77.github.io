@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CppNorth 2022 Trip Report
+title: ADC 2024 Trip Report
 ---
 
 The [ADC 2024](audio.dev) conference wrapped up a couple of weeks ago, and I wanted to share my thoughts.  The conference was a highly informative and engaging event that brought together experts in the field of audio development. It featured a range of sessions, workshops, and networking opportunities that provided valuable insights into the latest trends and technologies in audio development.
@@ -27,7 +27,7 @@ A thought-provoking discussion on the challenges and limitations of plugin devel
 
 An insightful exploration of the complexities of developing audio algorithms for different hardware architectures.
 
-#### ["A Spatial Audio Primer"](https://conference.audio.dev/session/2024/spatial-audio-primer/) 0 Emma Fitzmaurice
+#### ["A Spatial Audio Primer"](https://conference.audio.dev/session/2024/spatial-audio-primer/) - Emma Fitzmaurice
 
 A comprehensive introduction to the principles and techniques of spatial audio processing.
 
